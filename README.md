@@ -1,4 +1,4 @@
-# Vancouver DataFest 2022 - Advanced Python Workshop
+# Vancouver DataFest 2023 - Advanced Python Workshop
 
 # Image Compression & Re-Generation using Autoencoders
 
